@@ -1,0 +1,6 @@
+{
+    "name": "user/dummyjson",
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    }
+}
